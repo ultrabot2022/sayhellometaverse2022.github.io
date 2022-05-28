@@ -1,0 +1,19 @@
+{
+  "name": "Thompson",
+  "description": "machine-gun",
+  "start_url": "index.js",
+  "components": [
+    {
+      "key": "aim",
+      "value": {
+        "ikHand": "right"
+      }
+    },
+    {
+      "key": "use",
+      "value": {
+        "ik": "pistol"
+      }
+    }
+  ]
+}
